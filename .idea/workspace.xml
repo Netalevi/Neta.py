@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="deefc422-9b3c-4671-b2f6-104fc3c3c7e4" name="Changes" comment="" />
+    <list default="true" id="deefc422-9b3c-4671-b2f6-104fc3c3c7e4" name="Changes" comment="initial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +57,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676563134565</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="initial">
+      <created>1676565438733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1676565438733</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
 </project>
